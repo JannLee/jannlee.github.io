@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-study/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-study/static/js/main.25b8c5fa.chunk.js",
+    "main.js.map": "/react-study/static/js/main.25b8c5fa.chunk.js.map",
+    "runtime-main.js": "/react-study/static/js/runtime-main.8eba2550.js",
+    "runtime-main.js.map": "/react-study/static/js/runtime-main.8eba2550.js.map",
+    "static/js/2.6f360db9.chunk.js": "/react-study/static/js/2.6f360db9.chunk.js",
+    "static/js/2.6f360db9.chunk.js.map": "/react-study/static/js/2.6f360db9.chunk.js.map",
+    "static/js/3.6381b086.chunk.js": "/react-study/static/js/3.6381b086.chunk.js",
+    "static/js/3.6381b086.chunk.js.map": "/react-study/static/js/3.6381b086.chunk.js.map",
+    "index.html": "/react-study/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-study/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6f360db9.chunk.js.LICENSE.txt": "/react-study/static/js/2.6f360db9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-study/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eba2550.js",
+    "static/js/2.6f360db9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.25b8c5fa.chunk.js"
+  ]
+}

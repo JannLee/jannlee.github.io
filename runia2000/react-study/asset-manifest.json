@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://jannlee.github.io/runia2000/react-study/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "https://jannlee.github.io/runia2000/react-study/static/js/main.25b8c5fa.chunk.js",
+    "main.js.map": "https://jannlee.github.io/runia2000/react-study/static/js/main.25b8c5fa.chunk.js.map",
+    "runtime-main.js": "https://jannlee.github.io/runia2000/react-study/static/js/runtime-main.ddd920fb.js",
+    "runtime-main.js.map": "https://jannlee.github.io/runia2000/react-study/static/js/runtime-main.ddd920fb.js.map",
+    "static/js/2.6f360db9.chunk.js": "https://jannlee.github.io/runia2000/react-study/static/js/2.6f360db9.chunk.js",
+    "static/js/2.6f360db9.chunk.js.map": "https://jannlee.github.io/runia2000/react-study/static/js/2.6f360db9.chunk.js.map",
+    "static/js/3.6381b086.chunk.js": "https://jannlee.github.io/runia2000/react-study/static/js/3.6381b086.chunk.js",
+    "static/js/3.6381b086.chunk.js.map": "https://jannlee.github.io/runia2000/react-study/static/js/3.6381b086.chunk.js.map",
+    "index.html": "https://jannlee.github.io/runia2000/react-study/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "https://jannlee.github.io/runia2000/react-study/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6f360db9.chunk.js.LICENSE.txt": "https://jannlee.github.io/runia2000/react-study/static/js/2.6f360db9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://jannlee.github.io/runia2000/react-study/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddd920fb.js",
+    "static/js/2.6f360db9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.25b8c5fa.chunk.js"
+  ]
+}
